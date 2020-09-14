@@ -3,6 +3,7 @@ Just impuls program with a auto run comand
 
 
 install kali linux
+
     sudo apt update
     sudo apt install python3 python3-pip git -y
     git clone https://github.com/LimerBoy/Impulse
