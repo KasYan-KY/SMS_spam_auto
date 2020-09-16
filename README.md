@@ -13,5 +13,7 @@ install kali linux
 
 
 in order to run 
-    open auto.py and chenge number phone 
-    contry code + number without +
+ python3 auto.py
+ 
+ ener number in data base 
+ or run one time
